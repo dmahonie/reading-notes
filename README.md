@@ -1,1 +1,1 @@
-# reading-notes
+This passage is giving information on how to choose a Text Editor and it gives features that come with either text editor u choose such as Code Completion. Code Compleation allow You to start typing and it displays possible suggestions based on what you typed.Another feature that allow you to type is HTMLS and CSS.Also there is a feature called syntax higlighting that i think would work best for me because it would make my typing more noticeble by colorizing the text that i type.By using thest features it should help me find a text edior that fits me.
