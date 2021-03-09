@@ -1,0 +1,2 @@
+javascrips-A
+This chapter was about how HTML,CSS,and Javascript work well together to bulid your website, also it gave me the format of the code and comments and statments in three different ways numerical, string and boolean,and how they work. Also gave me information of how different they are from each other, and to use them at the right time. It also show me how to tell the differenecs between them.
