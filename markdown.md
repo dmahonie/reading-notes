@@ -1,1 +1,1 @@
-
+Markdown is a way to style text on the web i learned new ways to style my text by looking at examlps of Headers,Emphasis,Unordered and many more you would identify header by seeing if it has #(hashtag) symble in front of a phrase.Emphasis are idenifyed by itallic and bold syembols showed as _ or *. Unoredred is idenifyied as just one * in front of a phrase.
