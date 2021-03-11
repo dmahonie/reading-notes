@@ -1,1 +1,1 @@
-in this reading of javascripts i learned how to create a basic javascipt with expressions and values, and what is a javascipts?
+in this reading of javascripts i learned how to create a basic javascipt with expressions and values, and what is a javascipts? it allow you to make a web page more interactive by accessing and modifying the contents and the markups used in the web page while viewing the browser. 
