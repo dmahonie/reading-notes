@@ -13,10 +13,15 @@ https://github.com/dmahonie/reading-notes.git
 * [color.md](color)
 * [The coder computer notes](The%20coder%20computer)
 * [how computers work](how%20computer%20work)
+<<<<<<< HEAD
 * [markdown](Markdown)
 * [Javascripts](Javascripts)
 * [versionContol](Version%20Control)
 * [CSSgallerylayout](CSS%20gallery%20layout)
 * [Basicjavascripts](Basic%20Javascripts)
+=======
+
+
+>>>>>>> e0e8a637b322639b1210820896c7293f04a08442
 # About the Author
 I am from agape and I am intrested in this class because I am trying to enhance my knowledge for the technology of the Medical field. And to one day open my own bussiness with the skills I learn from taking these courses over the next 6 mounths.
